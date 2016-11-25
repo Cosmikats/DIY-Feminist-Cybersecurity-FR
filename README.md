@@ -1,6 +1,8 @@
-# A DIY Guide to Feminist Cybersecurity
+# A DIY Guide to Feminist Cybersecurity (en francais!)
 
 https://hackblossom.org/cybersecurity/
+
+(This is a work-in-progress to translate <a href="https://github.com/HACK-BLOSSOM/DIY-Feminist-Cybersecurity">A DIY Guide to Feminist Cybersecurity</a> into french. Eventually, this readme will be translated into french!)
 
 This is a comprehensive, succinct, and accessible DIY cybersecurity guide geared towards feminists, activists, and their friends. If you would like to contribute, please contact <a href="mailto:noah@hackblossom.org" target="_top">noah@hackblossom.org</a>.
 
